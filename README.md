@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## memo Pré requisitos
+## :memo: Pré requisitos
 
 - [GlassFish](https://javaee.github.io/glassfish/)
 - [NetBeansIDE](https://netbeans.apache.org/)
