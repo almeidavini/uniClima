@@ -1,10 +1,10 @@
-<h1 align="center">Uni Clima</h1>
+<h1 align="center">UniClima</h1>
 
 <img src="/home.png" alt="Home page"/>
 
 ## 💻 Projeto
 
-Uni Clima é uma plataforma que faz requisição a <a href="https://openweathermap.org/api">Weather API</a> para consultar a atual situação climática  de diferentes cidades do mundo.
+UniClima é uma plataforma que faz requisição a <a href="https://openweathermap.org/api">Weather API</a> para consultar a atual situação climática  de diferentes cidades do mundo.
 
 ## ✨ Tecnologias
 
