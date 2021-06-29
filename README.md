@@ -1,6 +1,6 @@
 <h1 align="center">UniClima</h1>
 
-<img src="/home.png" alt="Home page"/>
+<img src="/img/home.png" alt="Home page"/>
 
 ## 💻 Projeto
 
